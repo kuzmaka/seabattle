@@ -1,0 +1,32 @@
+15 15 0
+.....xxx.......
+.....xxxx......
+..xx.xxxx......
+..xx.........xx
+..xx.........xx
+xx.............
+xx.............
+...............
+...............
+...............
+..............x
+..xx..........x
+..xx.......xx..
+.....xx....xx..
+.....xx........
+0 0 6 6 3 4 6 3
+NA
+MOVE S TORPEDO |  | MSG 0 1 or 159
+MOVE S TORPEDO |  | MSG 1 1 or 136
+MOVE S TORPEDO |  | MSG 1 0 or 131
+MOVE S SILENCE |  | MSG 2 0 or 112
+MOVE S SILENCE |  | MSG 2 1 or 107
+MOVE S SILENCE |  | MSG 3 1 or 93
+MOVE S SILENCE |  | MSG 3 0 or 91
+MOVE E SILENCE |  | MSG 4 0 or 78
+SILENCE N 0 | MOVE N SILENCE |  | MSG 4 1 or 101
+SILENCE N 0 | MOVE N SONAR |  | MSG 10 11 or 88
+MOVE N SILENCE |  | MSG 10 12 or 75
+MOVE N SILENCE |  | MSG 11 11 or 66
+MOVE N SILENCE |  | MSG 11 11 or 56
+MOVE N SILENCE |  | MSG 10 11 or 54
